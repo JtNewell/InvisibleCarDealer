@@ -1,6 +1,6 @@
 # InvisibleCarDealer
 
-Here's my attempt creating a website using flexbox.
+Here's my attempt at creating a website using flexbox.
 
 
 Attribution: 
